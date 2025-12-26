@@ -26,12 +26,17 @@ The goal of this repository is to:
 ## 🗂 Repository Structure
 
 LeetCode/
+
 ├── Easy/
+
 ├── Medium/
+
 └── Hard/
 
 Each problem directory contains:
+
 ├── solution.(cpp / java / py)
+
 └── README.md
 
 
